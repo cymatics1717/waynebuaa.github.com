@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Aha, I getcha!]]></title>
+  <link href="http://waynebuaa.github.com/atom.xml" rel="self"/>
+  <link href="http://waynebuaa.github.com/"/>
+  <updated>2013-07-17T20:13:29+08:00</updated>
+  <id>http://waynebuaa.github.com/</id>
+  <author>
+    <name><![CDATA[Wayne Wang]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[hello]]></title>
+    <link href="http://waynebuaa.github.com/blog/2013/07/17/hello/"/>
+    <updated>2013-07-17T19:30:00+08:00</updated>
+    <id>http://waynebuaa.github.com/blog/2013/07/17/hello</id>
+    <content type="html"><![CDATA[<p><img src="http://waynebuaa.github.com/images/area_bisector.gif"></p>
+]]></content>
+  </entry>
+  
+</feed>
