@@ -4,7 +4,7 @@
   <title><![CDATA[Aha, I getcha!]]></title>
   <link href="http://waynebuaa.github.com/atom.xml" rel="self"/>
   <link href="http://waynebuaa.github.com/"/>
-  <updated>2013-07-17T20:13:29+08:00</updated>
+  <updated>2013-07-17T23:09:07+08:00</updated>
   <id>http://waynebuaa.github.com/</id>
   <author>
     <name><![CDATA[Wayne Wang]]></name>
@@ -14,11 +14,16 @@
 
   
   <entry>
-    <title type="html"><![CDATA[hello]]></title>
+    <title type="html"><![CDATA[Area Bisectors of a Triangle]]></title>
     <link href="http://waynebuaa.github.com/blog/2013/07/17/hello/"/>
     <updated>2013-07-17T19:30:00+08:00</updated>
     <id>http://waynebuaa.github.com/blog/2013/07/17/hello</id>
-    <content type="html"><![CDATA[<p><img src="http://waynebuaa.github.com/images/area_bisector.gif"></p>
+    <content type="html"><![CDATA[<p><a href="http://bbs.emath.ac.cn/forum.php?mod=viewthread&amp;tid=5068">平分三角形面积的直线</a> 的包络曲线：</p>
+
+<!-- more -->
+
+
+<p><img src="http://waynebuaa.github.com/images/area_bisector.gif"></p>
 ]]></content>
   </entry>
   

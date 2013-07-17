@@ -5,7 +5,7 @@ date: 2013-07-17 19:30
 comments: true
 categories: 
 ---
-[平分三角形面积的直线](http://bbs.emath.ac.cn/forum.php?mod=viewthread&tid=5068) 的包络曲线：
+[平分三角形面积的直线](http://bbs.emath.ac.cn/forum.php?mod=viewthread&tid=5068) 的[包络曲线\(envelope\)](http://en.wikipedia.org/wiki/Envelope_\(mathematics\))：
 <!-- more -->
 {% img /images/area_bisector.gif %}
 
