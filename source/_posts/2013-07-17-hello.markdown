@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "hello"
+title: "Area Bisectors of a Triangle"
 date: 2013-07-17 19:30
 comments: true
 categories: 
 ---
-
+[平分三角形面积的直线](http://bbs.emath.ac.cn/forum.php?mod=viewthread&tid=5068) 的包络曲线：
+<!-- more -->
 {% img /images/area_bisector.gif %}
 
 
