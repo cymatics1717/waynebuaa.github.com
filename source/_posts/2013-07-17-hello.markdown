@@ -1,0 +1,12 @@
+---
+layout: post
+title: "hello"
+date: 2013-07-17 19:30
+comments: true
+categories: 
+---
+
+{% img /images/area_bisector.gif %}
+
+
+
